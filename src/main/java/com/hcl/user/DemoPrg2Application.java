@@ -8,7 +8,7 @@ public class DemoPrg2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoPrg2Application.class, args);
-		
+	
 		// ---------------
 	}
 
